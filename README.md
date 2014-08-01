@@ -17,8 +17,11 @@ These are the main research topics:
 
 ##About CAIB's Biological Image Viewer (BIVi)
 
-BIVi was developed with the proposed of handling microscopical images. It uses Qt, OpenCV and CAIB's image processing library
-It user's to develop and add their own plugins and support basic image handling operations.
+BIVi was developed with the proposed of handling microscopical images. It uses Qt, OpenCV and CAIB's image processing library.
+
+Users can develop and add their own applications with the use of plugins.
+
+BIVi also support basic image handling operations, such as open, save, zoom, etc...
 
 
 
