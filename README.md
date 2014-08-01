@@ -21,7 +21,7 @@ BIVi was developed with the proposed of handling microscopical images. It uses Q
 
 Users can develop and add their own applications with the use of plugins.
 
-BIVi also support basic image handling operations, such as open, save, zoom, etc...
+BIVi also support basic image handling operations, such as open, save and zoom.
 
 
 
